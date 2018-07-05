@@ -2,6 +2,7 @@
 (c) 2018 Applied Psychoacoustics Lab (APL), University of Huddersfield
 
 Authors: Dr Hyunkook Lee, Dale Johnson and Maksims Mironovs
+
 Correspondence to h.lee@hud.ac.uk
 
 Developed based on a novel psychoacoustic time-level trade-off algorithm, MARRS provides an interactive, object-based workflow and graphical user interface for localisation prediction and microphone array configuration. It allows the user to predict the perceived positions of multiple sound sources for a given microphone configuration. The tool can also automatically configure suitable microphone arrays for the user’s desired spatial scene in reproduction. Furthermore, MARRS overcomes some of the limitations of existing microphone array simulation tools by taking into account microphone height and vertical orientations as well as the target loudspeaker base angle. 
